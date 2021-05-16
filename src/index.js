@@ -3,7 +3,7 @@ import oneCountryTpl from './templates/oneCountryTpl.hbs';
 import manyCountriesTpl from './templates/manyCountriesTpl.hbs';
 import { alert } from '@pnotify/core';
 import '@pnotify/core/dist/BrightTheme.css';
-import '@pnotify/core/dist/Material.css';
+import '@pnotify/core/dist/PNotify.css';
 var _ = require('lodash');
 
 const refs = {
